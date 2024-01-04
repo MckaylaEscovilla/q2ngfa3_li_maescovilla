@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255, 235, 210);
+    justify-content: center;
+    display: flex;
+}
+.mainbox{
+    background-color: white;
+    width: 20vw;
+    height: 15vw;
+}
+.mainbox img{
+    
+}

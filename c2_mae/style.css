@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(255, 196, 0);
+    justify-content: center;
+    display: flex;
+    margin-top: 15vh;
+}
+.mainbox{
+    width: 20vw;
+    height: 27vw;
+    border-radius: 5%;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 5px 10px #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mainbox svg{
+   margin-left: 20px;
+}
+.mainbox p{
+    font-size: small;
+}
+.mainbox span{
+    color: rgb(255, 196, 0);;
+}
+.subbox{
+    width: 4vw;
+    height: 3vh;
+    background-color: rgb(255, 196, 0);
+    justify-content: center;
+    border-radius: 2%;
+}
+.subbox h4{
+    padding: 7px;
+    font-size: small;
+}
+.mainbox:hover{
+    box-shadow: 10px 15px;
+}
